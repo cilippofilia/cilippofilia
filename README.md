@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @cilippofilia
 - 👀  I’m a skateboarder with a geniuine passion for bartending, coding and Crypto
 - 🌱  I’m currently learning SwiftUI
-- 🍹  I currently one app on the AppStore called Drinko:
+- 🍹  I have shipped one app on the AppStore called Drinko:
 
          Whether you want to start making cocktails, you are a beginner bartender or simply a cocktail aficionado, this app will guide you through the basics of bartending and the classic cocktails.
 
