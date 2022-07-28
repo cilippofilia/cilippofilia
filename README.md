@@ -3,7 +3,9 @@
 - 👀 I’m interested in SwiftUI, Blockchain, Web 3.0 and Cryptocurrencies.
 - 🌱 I’m currently learning SwiftUI and, after creating a little portfolio, I will dive into Blockchain and Web 3.0 languages.
 
-- 📫 How to reach me through Twitter or Instagram -> @cilippofilia
+- 📫 You can reach out to me on:
+  Twitter   -> @cilippofilia
+  Instagram -> @cilippofilia
 
 <!---
 cilippofilia/cilippofilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
