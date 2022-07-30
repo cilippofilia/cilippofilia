@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in SwiftUI, Blockchain, Web 3.0 and Cryptocurrencies.
 - 🌱 I’m currently learning SwiftUI.
-- 🌿 Blockchain & Cartesi are next.
+- 🌿 Blockchain & Cartesi OS are next.
 - 🪴 Web 3.0, Cryptocurrencies and SmartContracts are the final goal.
 
 - 💻 Developing skills that will retire me from the hospitality industry.
