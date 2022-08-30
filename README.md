@@ -3,7 +3,7 @@
 - 👀 I’m interested in SwiftUI, Blockchain, Web 3.0 and Cryptocurrencies.
 - 🌱 I’m currently learning SwiftUI through 100 Days of SwiftUI - Thanks @twostraws.
 - 🌿 JS, Moralis & Cartesi OS are next.
-- 🪴 Beign able to programme Web 3.0 dApps, SmartContracts and work within crypto is my final goal.
+- 🪴 Being able to programme Web 3.0 dApps, SmartContracts and work within crypto is my final goal.
 
 - 💻 Developing skills that will retire me from the hospitality industry.
 
