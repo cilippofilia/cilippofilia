@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @cilippofilia!
 
 - 👀 I’m interested in SwiftUI, Blockchain, Web 3.0 and Cryptocurrencies.
-- 🌱 I’m currently learning SwiftUI through 100 Days of SwiftUI - Thanks @twostraws.
+- 🌱 I’m currently catching up with SwiftUI, again.
 - 🌿 JS, Moralis & Cartesi OS are next.
-- 🪴 Being able to programme Web 3.0 dApps, SmartContracts and work within crypto is my final goal.
+- 🪴 Being a profeessional developer is my final goal.
 
 - 💻 Developing skills that will retire me from the hospitality industry.
 
