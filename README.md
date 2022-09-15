@@ -6,8 +6,10 @@ Hi, I’m @cilippofilia!
 - This GitHub profile will tell the story of my journey of becoming an iOS Dev from scratch.
 
 You can reach out to me on:
-  Twitter   -> @cilippofilia
-  Instagram -> @cilippofilia
+
+Twitter   -> @cilippofilia
+
+Instagram -> @cilippofilia
 
 <!---
 cilippofilia/cilippofilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
