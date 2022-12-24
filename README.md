@@ -13,7 +13,7 @@ Fiverr    -> https://www.fiverr.com/s2/afef89c1b8
 
 You can reach out to me on:
 
-Twitter   -> [@cilippofilia](https://app www.twitter.com/cilippofilia)
+Twitter   -> [@cilippofilia](https://www.twitter.com/cilippofilia)
 
 Instagram -> [@cilippofilia](https://www.instagram.com/cilippofilia)
 
