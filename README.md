@@ -1,8 +1,8 @@
 Hi, I’m @cilippofilia!
 
-- I’m interested in SwiftUI, Blockchain, Web 3.0 and Cryptocurrencies.
-- I’m currently following Codecademy Paths: iOS Developer & Full Stack Developer.
-- This GitHub profile will tell the story of my journey of becoming a devolper from scratch.
+- I really enjoy coding and programming in different languages.
+- My first love was Swift and SwiftUI, then I learn a bit of Front-end Development (HTML/CSS + JavaScript)
+- I’m currently following Codecademy Paths: iOS Developer & Full Stack Developer and I have just started a Software Engineering bootcamp at HyperionDev.
 
 
 Freelance Hire:
@@ -13,9 +13,9 @@ Fiverr    -> https://www.fiverr.com/s2/afef89c1b8
 
 You can reach out to me on:
 
-Twitter   -> @cilippofilia
+Twitter   -> [@cilippofilia](https://app www.twitter.com/cilippofilia)
 
-Instagram -> @cilippofilia
+Instagram -> [@cilippofilia](https://www.instagram.com/cilippofilia)
 
 
 <!---
