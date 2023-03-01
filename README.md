@@ -1,14 +1,15 @@
-Hello! 
+# Hello! 
 
-I'm @cilippofilia 👨‍💻, a passionate programmer with a love for coding in various languages. My journey started with 🦅Swift/SwiftUI, but I soon found myself dabbling in the world of full stack development.
+I'm *@cilippofilia* 👨‍💻, a passionate programmer with a love for coding in various languages. My journey started with 🦅Swift/SwiftUI, but I soon found myself dabbling in the world of full stack development.
 
-I'm currently on an exciting learning journey, studying:
+I'm currently on an exciting learning journey, studying my current stack, which includes various technologies and tools such as:
 - 🐍 Python
 - 🧱 HTML/CSS
+- 🛠️ Bootstrap
 - 🎨 Django
-- 🐬 mySQL
+- 🐬 MySQL/SQLite
 
-I'm following Codecademy Paths for both iOS and Full Stack Development, and I've also embarked on an intensive Software Engineering bootcamp with HyperionDev.
+I have recently finished a Software Engineering Bootcamp with HyperionDev, and I'm also following Codecademy Paths for both iOS and Full Stack Development as part of my ongoing learning journey.
 
 If you're looking for a talented freelance developer, you can check out my work on Fiverr, where I offer my skills and expertise to bring your projects to life.
 
