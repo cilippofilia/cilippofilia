@@ -5,9 +5,10 @@ I'm *@cilippofilia* 👨‍💻, a passionate programmer with a love for coding 
 I'm currently on an exciting learning journey, studying my current stack, which includes various technologies and tools such as:
 - 🐍 Python
 - 🧱 HTML/CSS
-- 🛠️ Bootstrap
+- 🧩 JavaScript
+- 🛠️ Bootstrap/React
 - 🎨 Django
-- 🐬 MySQL/SQLite
+- 🐬 SQL
 
 I have recently finished a Software Engineering Bootcamp with HyperionDev, and I'm also following Codecademy Paths for both iOS and Full Stack Development as part of my ongoing learning journey.
 
