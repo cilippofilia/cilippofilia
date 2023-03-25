@@ -24,10 +24,6 @@ So what are you waiting for? Let's connect and create something amazing together
 
 📸 Instagram -> [@cilippofilia](https://www.instagram.com/cilippofilia)
 
-Freelance Hire:
-
-🖐️💰 Fiverr    -> https://www.fiverr.com/s2/afef89c1b8
-
 
 <!---
 cilippofilia/cilippofilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
