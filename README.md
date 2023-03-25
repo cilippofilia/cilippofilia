@@ -1,6 +1,6 @@
 # Hello! 
 
-I'm *@cilippofilia* 👨‍💻, a passionate programmer with a love for coding in various languages. My journey started with 🦅Swift/SwiftUI, but I soon found myself dabbling in the world of full stack development.
+I'm *Filippo Cilia* 👨‍💻, a passionate programmer with a love for coding in various languages. My journey started with 🦅Swift/SwiftUI, but I soon found myself dabbling in the world of full stack development.
 
 I'm currently on an exciting learning journey, studying my current stack, which includes various technologies and tools such as:
 - 🐍 Python
