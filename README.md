@@ -12,8 +12,6 @@ I'm currently on an exciting learning journey, studying my current stack, which 
 
 I have recently finished a Software Engineering Bootcamp with HyperionDev, and I'm also following Codecademy Paths for both iOS and Full Stack Development as part of my ongoing learning journey.
 
-If you're looking for a talented freelance developer, you can check out my work on Fiverr, where I offer my skills and expertise to bring your projects to life.
-
 And if you want to connect with me, feel free to reach out on Twitter or Instagram, where I'm always happy to chat about all things tech and programming. 
 
 So what are you waiting for? Let's connect and create something amazing together! 🤝
