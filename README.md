@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo Carlo Cilia</h1>
-<h3 align="center">A passionate programmer with a love for coding in various languages. My journey started with Swift, but I soon found myself dabbling in the world of full stack development.</h3>
+<h3 align="center">A passionate programmer with a love for coding in various languages. My journey started with Swift, but I rrecently found myself dabbling in the world of full stack development.</h3>
 
 <p align="left"> <a href="https://twitter.com/cilippofilia" target="blank"><img src="https://img.shields.io/twitter/follow/cilippofilia?logo=twitter&style=for-the-badge" alt="cilippofilia" /></a></p>
 
