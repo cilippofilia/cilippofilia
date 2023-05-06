@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cilippofilia" target="blank"><img src="https://img.shields.io/twitter/follow/cilippofilia?logo=twitter&style=for-the-badge" alt="cilippofilia" /></a></p>
 
-- 🔭 I’m currently working on a Software Engineer portfolio and 'Drinko' as web application ([Drinko - iOS app repository](https://github.com/cilippofilia/Drinko))
+- 🔭 I’m currently working on my Portfolio and on Drinko for iOS, iPadOS & MacOS ([Drinko - iOS app repository](https://github.com/cilippofilia/Drinko))
 
 - 🌱 I’m currently studying @Codecademy **Full-Stack Engineer Path** & **iOS Developer Path**
 
