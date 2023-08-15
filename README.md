@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently studying @Codecademy **Full-Stack Engineer Path** & **iOS Developer Path**
 
-- 👨‍💻 All of my projects are available here: [github.com/cilippofilia](github.com/cilippofilia)
+- 👨‍💻 All of my projects are available here on GitHub
 
-- 📫 Reach me here: **filippocarlocilia@gmail.com**
+- 📫 You can reach out to me here: **filippocarlocilia@gmail.com**
 
 - 📄 Check my CV here: [cilippofilia.github.io/eCV/](cilippofilia.github.io/eCV/)
 
