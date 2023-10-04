@@ -11,7 +11,8 @@
 
 - 📫 You can reach out to me here: **filippocarlocilia@gmail.com**
 
-- 📄 Check my CV here: [cilippofilia.github.io/eCV/](cilippofilia.github.io/eCV/)
+- 📄 Check my CV here: [cilippofilia.github.io/eCV/](https://cilippofilia.github.io/eCV/)
+- 
 
 - ⚡️ Fun facts: **I love pizza 🍕, pasta 🍝 and good drinks 🍹** - cannot be more Italian 🇮🇹 than this.
 
