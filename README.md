@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/fcilia_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fcilia_dev?logo=twitter&style=for-the-badge" alt="fcilia_dev" /></a></p>
 
-- 🔭 I’m currently working on Drinko for iOS, iPadOS & MacOS [release tbc] ([Drinko - iOS app repository](https://github.com/cilippofilia/Drinko))
+- 🎰 Junior iOS Developer at Bally's Interactive
 
-- 🌱 I’m currently studying @Codecademy **Full-Stack Engineer Path** & **iOS Developer Path**
+- 🔭 Available on the AppStore:
+    -  Drinko. Cocktail recipes & lessons
+      ([Drinko - iOS app repository](https://github.com/cilippofilia/Drinko))
 
 - 👨‍💻 Check my favorite projects here on Github
 
 - 📫 You can reach out to me here: **filippocarlocilia@gmail.com**
-
-- 📄 Check my CV here: [cilippofilia.github.io/eCV/](https://cilippofilia.github.io/eCV/)
 
 - ⚡️ Fun facts: **I love pizza 🍕, pasta 🍝 and good drinks 🍹** - cannot be more Italian 🇮🇹 than this - I burn everything off by lifting weights and carrying groceries.
 
