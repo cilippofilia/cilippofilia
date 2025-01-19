@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fcilia_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fcilia_dev?logo=twitter&style=for-the-badge" alt="fcilia_dev" /></a></p>
 
-- 🎰 Junior iOS Developer at Bally's Interactive
+- 🎰 iOS Developer at Bally's Interactive
 
 - 🔭  Apps available on the AppStore:
     -  [Drinko.](https://apps.apple.com/gb/app/drinko/id6449893371) Cocktail recipes & lessons
