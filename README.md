@@ -5,9 +5,6 @@
 
 - 🎰 iOS Developer at Bally's Interactive
 
-- 🔭  Apps available on the AppStore:
-    -  [Drinko.](https://apps.apple.com/gb/app/drinko/id6449893371) Cocktail recipes & lessons
-
 - 👨‍💻 Check my favorite projects here on Github
 
 - 📫 You can reach out to me here: **filippocarlocilia@gmail.com**
